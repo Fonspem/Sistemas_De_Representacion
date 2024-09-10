@@ -42,3 +42,19 @@ El informe deberá estar compuesto, como mínimo, por las siguientes secciones:
 - **Formato de entrega**: PDF.
 - **Tamaño máximo de archivo**: 50 MB.
 - **Fecha límite de entrega**: Sábado 14.09.2024, 23:59 h.
+
+
+## Galería de arte digital interactiva
+
+    Problema: Los museos y galerías físicas limitan el acceso de artistas y público a las obras de arte.
+    Propuesta conceptual: Crear una galería digital interactiva donde los usuarios puedan "caminar" a través de un espacio virtual y explorar obras de arte. Cada pieza tendría información adicional o animaciones que se activan cuando el usuario interactúa con ella.
+    Objetivo: Democratizar el acceso al arte, permitiendo a cualquier persona explorar y apreciar obras de forma inmersiva desde cualquier lugar.
+    Solución de diseño: Visualizaciones iniciales de la disposición de las salas virtuales, con elementos de interacción, y un diseño estético y minimalista para destacar las obras.
+
+
+## Plataforma de arte generativo
+
+    Problema: Los procesos creativos tradicionales limitan la exploración de nuevas formas de arte generativo.
+    Propuesta conceptual: Una plataforma que permita a los usuarios generar arte visual mediante algoritmos. El usuario puede ajustar parámetros como color, forma y movimiento, y el sistema creará obras únicas en tiempo real, basándose en los inputs del usuario.
+    Objetivo: Explorar nuevas fronteras del arte digital mediante la participación directa del usuario en el proceso creativo.
+    Solución de diseño: Bosquejos de una interfaz donde los usuarios puedan interactuar con controles deslizantes y botones para generar sus propias obras de arte. Incorporación de animaciones suaves y un diseño visual limpio y moderno.
